@@ -1,41 +1,23 @@
 {
-  "name": "cordova-plugin-inappbrowser",
-  "version": "1.4.1-dev",
-  "description": "Cordova InAppBrowser Plugin",
+  "name": "cordova-plugin-openblank-new",
+  "version": "1.0",
+  "description": "Cordova OpenBlank Plugin",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "cordova-plugin-openblank-new",
     "platforms": [
       "android",
-      "amazon-fireos",
-      "ubuntu",
-      "ios",
-      "wp7",
-      "wp8",
-      "windows8",
-      "windows",
-      "firefoxos"
+      "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser"
+    "url": "https://github.com/dsditt/cordova-plugin-openblank/"
   },
   "keywords": [
     "cordova",
-    "in",
-    "app",
-    "browser",
-    "inappbrowser",
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-amazon-fireos",
-    "cordova-ubuntu",
-    "cordova-ios",
-    "cordova-wp7",
-    "cordova-wp8",
-    "cordova-windows8",
-    "cordova-windows",
-    "cordova-firefoxos"
+    "cordova-ios"
   ],
   "scripts": {
     "test": "npm run jshint",
